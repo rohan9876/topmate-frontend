@@ -1,0 +1,46 @@
+.sessiontype {
+    width: 100%;
+    /* margin-left: 9%; */
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    align-items: center;
+}
+
+.sessiontype-txt{
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.sessiontype-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sessiontype-container-first{
+    width: 30%;
+    padding: 2%;
+    margin-top: 8%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.sessiontype-icon{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 15%;
+}
+
+.sesiontype-container-txt{
+    font-size: 20px;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.sessiontype-heading{
+    font-size: 25px;
+}

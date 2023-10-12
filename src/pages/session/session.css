@@ -1,0 +1,29 @@
+.session{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-content: center;
+}
+
+
+
+.sessioncard-div{
+    width: 82%;
+    margin-left: 9%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 4%;
+    flex-wrap: wrap;
+}
+
+.sesssioncard-in{
+    width: 30%;
+    margin-bottom: 2%;
+}
+
+.sesssioncard-in:hover {
+    cursor: pointer; 
+}

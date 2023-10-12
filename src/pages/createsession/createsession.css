@@ -1,0 +1,54 @@
+.createsession{
+    width: 100vw;
+    max-height: 100vh;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(40 blue, 30 red);
+}
+
+.createsession-form{
+    width: 28vw;
+    margin: 10vh 37vw;
+    padding-bottom: 10vh;
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 10px #b7b1b1a5;
+}
+
+.createsession-input{
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 20vw;
+    height: 30px;
+    background-color: #b5aaaa55;
+    border: none;
+
+}
+
+.form-heading{
+    color: blue;
+}
+
+.createsession-input-dis{
+    margin-top: 10px;
+    width: 20vw;
+    height: 10vh;
+    border-radius: 10px;
+    background-color: #b5aaaa55;
+    border: none;
+}
+
+.createsession-btn{
+    width: 8vw;
+    border-radius: 12px;
+    background-color: rgb(197, 96, 247);
+    border: none;
+    box-shadow: 5px black;
+    margin-top: 20px;
+}

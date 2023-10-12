@@ -1,0 +1,36 @@
+.expert-intro{
+    width: 91%;
+    height: max-content;
+    margin-left: 9%;
+    margin-top: 8%;
+}
+
+.expert-intro-left{
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+}
+
+.expert-intro-right{
+    width: 31%;
+}
+
+.expert-intro-img{
+    width: 85%;
+    height: 85%;
+    border-radius: 100%;
+}
+
+.expert-intro-text{
+    font-size: 25px;
+    margin-top: 7%;
+}
+
+.expert-btn{
+    width: 60%;
+    height: 12%;
+}
+
+.expert-btn-txt{
+    font-size: 20px;
+}

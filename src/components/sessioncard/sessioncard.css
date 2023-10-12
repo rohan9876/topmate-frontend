@@ -1,0 +1,52 @@
+.sessioncard{
+    width: 100%;
+    height: 28%;
+    border: 1px solid;
+    border-radius: 10px;
+    justify-content: center;
+    box-shadow:  30px 39px 3px dark;
+}
+
+.sessioncard-first{
+    margin-top: 3%;
+    margin-right: 2%;
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: max-content;
+    align-items: center;
+}
+
+.sessioncard-img{
+    width: 40%;
+}
+
+.sessioncard-intro{
+    margin-left: 2%;
+}
+
+.sessioncard-second{
+    width: 90%;
+    display: flex;
+    margin-left: 6%;
+    margin-top: 10%;
+    margin-right: 2%;
+    height: max-content;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 3%;
+}
+
+.clock-logo{
+    width: 10%;
+    height: 10%;
+}
+
+.btn-book{
+    margin-left: 10%;
+}
+
+.sessioncard-timing{
+    margin-left: 2%;
+    margin-top: 5%;
+}

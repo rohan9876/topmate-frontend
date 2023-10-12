@@ -1,0 +1,45 @@
+.homereview{
+    padding-top: 13vh;
+    padding-left: 7rem;
+    width: 100vw;
+    height: fit-content;
+    background-color: rgba(255, 192, 203, 0.753);
+    padding-bottom: 13vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.homereview-container{
+    display: flex;
+    width: 100vw;
+    padding-left: 3rem;
+    padding-top: 10vh;
+    padding-right: 10vw;
+    justify-content: space-between;
+    height: fit-content; 
+}
+
+.homereview-single{
+    width: 25vw;
+    height: 40vh;
+    border: 1px wheat;
+    padding: 15px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: #ffffff;
+}
+
+.homereview-img{
+    height: 35px;
+    width: 35px;
+    margin-right: 15px;
+    border-radius: 50%;
+}
+
+.homereview-profile{
+    display: flex;
+    margin-top: 70px;
+}

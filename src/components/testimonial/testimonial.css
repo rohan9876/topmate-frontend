@@ -1,0 +1,55 @@
+.container-test{
+  margin-top: 6%;
+
+}
+
+.top-expert{
+  margin-bottom: 10%;
+  margin-left: 40%;
+}
+
+.testimonial-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Adjust the alignment as per your preference */
+  max-width: 100%;
+  margin: 1px solid;
+}
+
+.testimonial-card {
+  width: 20%; /* Adjust the width percentage to accommodate 4 cards */
+  max-width: 350px;
+  margin: 1rem;
+  border: 1px solid;
+  text-align: center;
+  background-color: rgb(67, 67, 77, 0.1);
+  overflow: hidden;
+}
+
+.card-imgs{
+  width: 80%;
+  border-radius: 50%;
+}
+
+.prev-btn{
+  height: 50%;
+  align-items: center;
+  margin-top: 130px;
+}
+
+.next-btn{
+  height: 50%;
+  margin-top: 130px;
+}
+
+@media (max-width: 768px) {
+  .testimonial-card {
+    width: 48%; /* Adjust the width percentage for smaller screens */
+  }
+}
+
+@media (max-width: 576px) {
+  .testimonial-card {
+    width: 100%;
+  }
+}

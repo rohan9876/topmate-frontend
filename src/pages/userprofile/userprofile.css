@@ -1,0 +1,93 @@
+.background-img{
+    width: 100vw;
+    height: 40vh;
+}
+
+.background{
+    width: 100vw;
+    height: fit-content;
+}
+
+.userprofile-img-sct{
+    display: flex;
+    flex-direction: column;
+    margin-top: -100px;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: fit-content;
+}
+
+.bg-profile-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.userprofile-middle{
+    width: 90vw;
+    padding-left: 7vw;
+    padding-right: 5vw;
+    margin-top: 20px;
+}
+
+.session-add{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.userprofile-btn{
+    width: 100px;
+    color: #ffffff;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.userprofile-btn:hover{
+    color: black;
+    background-color: #ffffff;
+}
+
+.userprofile-session{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.up-reivew-left{
+    width: 23vw;
+    height: 30vh;
+    margin-left: 10px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.up-reivew-left:hover{
+    box-shadow: 7px 4px 5px 3px rgba(168,139,248,255);;
+}
+
+.up-review-left-topic{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+
+.up-review-free{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+.up-review-date{
+    margin-left: 90px;
+}
+
+.up-review-time{
+    margin-top: -10px;
+    justify-content: space-between;
+}
+
+.userprofile-contact{
+    margin-top: 50px;
+}
